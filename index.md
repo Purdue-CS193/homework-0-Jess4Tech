@@ -1,3 +1,9 @@
+# Jess's First CS192 Homework
+Some of my favorite things about CS192 are
+- It will be over soon
+- It feeds my feelings of superiority
+- It at least covers interesting things, even if I already know them
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
